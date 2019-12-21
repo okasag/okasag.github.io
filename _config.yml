@@ -1,6 +1,6 @@
 # main text of home
 name: Gabriel Okasa
-bio: PhD Candidate in Econometrics at the University of St.Gallen, Switzerland
+bio: 'PhD Candidate in Econometrics at the University of St.Gallen, Switzerland'
 
 # twitter summary info
 description: My personal website
@@ -21,7 +21,7 @@ url: http://okasag.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-154933120-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -42,6 +42,7 @@ disqus:
 # youtube: myyoutube
 # spotify: myspotify
 github: okasag
+unsplash: okasag
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
