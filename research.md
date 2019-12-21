@@ -1,11 +1,10 @@
 ---
 title: Research
 layout: page
-permalink: /Research/index.html
+permalink: /research/index.html
 ---
 
 # Research
----
 
 ## Working papers
 
@@ -13,5 +12,4 @@ permalink: /Research/index.html
 
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", 2018,  Economics Working Paper Series 1811, University of St. Gallen, School of Economics and Political Science, jointly with Daniel Goller, [Michael Knaus](https://mcknaus.github.io/) and [Michael Lechner](https://www.michael-lechner.eu/)
 
----
 
