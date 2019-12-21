@@ -1,3 +1,3 @@
 # okasag.github.io
 
-website based on the jekyll indigo template by sergiokopplin
+My personal website ased on the Jekyll [Indigo](https://github.com/sergiokopplin/indigo/) template by Sérgio Kopplin.
