@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: false
-# resume-url: https://google.com/?q=my+resume
+resume-url: assets/pdf/cv_gabriel_okasa.pdf
 
 url: http://okasag.github.io
 
