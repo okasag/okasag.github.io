@@ -58,7 +58,7 @@ authors:
         name: Gabriel Okasa
         bio: and not a single loop was given
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile_square.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
