@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a PhD candidate in econometrics at the [University of St.Gallen](https://www.unisg.ch/), Switzerland,
+<p align="justify">I am a PhD candidate in econometrics at the [University of St.Gallen](https://www.unisg.ch/), Switzerland,
 under the supervision of Prof. Dr. [Michael Lechner](https://www.michael-lechner.eu/). I am also affiliated
 with the Swiss Institute for Empirical Economic Research ([SEW](https://sew.unisg.ch/en/)). My research
 interests lie at the intersection of econometrics and machine learning, focusing on both predictive as well
