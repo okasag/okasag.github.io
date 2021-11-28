@@ -13,5 +13,7 @@ layout: page
 
 [OrderedForest](https://github.com/okasag/OrderedForest): Light `scikit-learn`-like implementation of the Ordered Forest estimator in Python.
 
+[SparseLasso](https://github.com/okasag/SparseLasso): Sparse solutions for the `scikit-learn`'s Lasso based on the 1 standard error rule.
+
 
 
