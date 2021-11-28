@@ -17,4 +17,4 @@ layout: page
 
 ## Work in Progress
 
-Meta-Learners for Estimation of Causal Effects: Finite Sample Cross-Fit Performance, single-authored ([available on request](mailto:gabriel.okasa@epfl.ch)
+Meta-Learners for Estimation of Causal Effects: Finite Sample Cross-Fit Performance, single-authored ([available on request](mailto:gabriel.okasa@epfl.ch))
