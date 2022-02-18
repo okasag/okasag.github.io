@@ -11,7 +11,7 @@ layout: page
 
 ## Working Papers
 
-"[Meta-Learners for Estimation of Causal Effects: Finite Sample Cross-Fit Performance](https://arxiv.org/pdf/2201.12692.pdf)", 2022, arXiv preprint arXiv:2201.12692, single-authored
+"[Meta-Learners for Estimation of Causal Effects: Finite Sample Cross-Fit Performance](https://arxiv.org/pdf/2201.12692.pdf)", 2022, arXiv preprint arXiv:2201.12692, single-authored ([Slides]({{ site.url }}/assets/pdf/okasa_metalearners_slides.pdf))
 
 "[The Effect of Sport in Online Dating: Evidence from Causal Machine Learning](https://arxiv.org/pdf/2104.04601.pdf)", 2021, arXiv preprint arXiv:2104.04601, jointly with Daniel Boller and [Michael Lechner](https://www.michael-lechner.eu/)
 
