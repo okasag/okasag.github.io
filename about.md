@@ -11,6 +11,6 @@ I completed my doctoral studies in economics and finance with specialization in 
 under the supervision of Prof. Dr. [Michael Lechner](https://www.michael-lechner.eu/). Prior to joining EPFL I was affiliated
 with the Swiss Institute for Empirical Economic Research ([SEW-HSG](https://sew.unisg.ch/en/)). My research
 interests lie at the intersection of econometrics and machine learning, focusing on both predictive as well
-as causal machine learning. I am particularly interested in robust machine learning and estimators based on random forests.
+as causal machine learning. I am particularly interested in robust machine learning and estimators based on resampling methods.
 Besides the theory I also enjoy the statistical programming of the related algorithms, mainly using [R](https://cran.r-project.org/)
 and [Python](https://www.python.org/). In my spare time I like to go hiking and do photography.
