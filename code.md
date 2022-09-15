@@ -11,13 +11,13 @@ layout: page
 
 ## Python
 
+[samplefit](https://pypi.org/project/samplefit/), 2022, PyPI package, jointly with [Kenneth A. Younge](https://kenneth.younge.net)
+
 [orf: Ordered Random Forests](https://pypi.org/project/orf/), 2022, PyPI package, jointly with [Michael Lechner](https://www.michael-lechner.eu/) and Fabian Muny ([Website](https://orf-lab.github.io/orf-py/))
 
 [OrderedForest](https://github.com/okasag/OrderedForest): Light `scikit-learn`-like implementation of the Ordered Forest estimator in Python.
 
 [SparseLasso](https://github.com/okasag/SparseLasso): Sparse solutions for the `scikit-learn`'s Lasso based on the 1 standard error rule.
-
-[samplefit](https://github.com/okasag/samplefit): Implementation of the Random Sample Reliability (RSR) algorithm, jointly with [Kenneth A. Younge](https://kenneth.younge.net)
 
 
 
